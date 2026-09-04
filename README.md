@@ -1,3 +1,61 @@
+# 📊 Retail Sales Dashboard (Excel)
+
+## 📌 Project Overview
+This project is an interactive Retail Sales Dashboard built in Microsoft Excel. 
+It helps analyze sales performance, profit trends, and regional/city-wise 
+business KPIs using Excel's advanced features like Power Query, Power Pivot, 
+and DAX. The dashboard is designed to support business decision-making by 
+presenting data in a clear and interactive format.
+
+## 🎯 Objectives
+- Monitor overall sales and profit performance
+- Analyze zone-wise sales distribution
+- Track month-wise sales trends
+- Compare city-wise sales performance
+- Monitor return rate, discount %, and shipping efficiency
+- Generate meaningful business insights
+- Create an easy-to-use management dashboard
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot (Data Modeling)
+- DAX Formulas
+- Data Validation
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Formulas
+- Conditional Formatting
+- Tables
+- Charts
+
+## 📊 Dashboard Features
+- Interactive Dashboard
+- Dynamic Slicers
+- Zone-wise Sales Analysis
+- Month-wise Sales Trend
+- City-wise Sales Comparison
+- KPI Summary
+- Clean and Professional Layout
+
+## 📈 Key KPIs
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Total Orders
+- Average Order Value
+- Return Rate %
+- Average Discount %
+- Average Shipping Days
+- Customer Satisfaction Score
+
+## 📂 Project Structure
+Retail-Sales-Dashboard/
+├── Retail Data Report.xlsx
+├── Images/
+│ └── Dashboard Screenshot
+└── README.md
 
 ## 💡 Skills Demonstrated
 - Data Cleaning & Transformation (Power Query)
@@ -7,12 +65,12 @@
 - Data Analysis
 - Dashboard Design
 - Business Reporting
+- MIS Reporting
 - Data Visualization
 - Analytical Thinking
 
 ## 📷 Dashboard Preview
-<img width="1450" height="771" alt="image" src="https://github.com/user-attachments/assets/dcc7c608-9318-4876-b385-aff6f9b35095" />
-
+Dashboard screenshot is included above in this README.
 
 ## 🚀 How to Use
 1. Download the Excel file.
