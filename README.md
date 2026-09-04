@@ -53,8 +53,6 @@ presenting data in a clear and interactive format.
 ## 📂 Project Structure
 Retail-Sales-Dashboard/
 ├── Retail Data Report.xlsx
-├── Images/
-│ └── Dashboard Screenshot
 └── README.md
 
 ## 💡 Skills Demonstrated
@@ -70,7 +68,7 @@ Retail-Sales-Dashboard/
 - Analytical Thinking
 
 ## 📷 Dashboard Preview
-Dashboard screenshot is included above in this README.
+<img width="1442" height="737" alt="image" src="https://github.com/user-attachments/assets/32a42907-96e4-4cfa-bdf4-69152f0fc2aa" />
 
 ## 🚀 How to Use
 1. Download the Excel file.
