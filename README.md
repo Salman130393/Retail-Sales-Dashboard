@@ -1,27 +1,36 @@
-# 📊 Retail Sales Dashboard (Excel)
 
-Interactive sales dashboard built in Excel using pivot tables, charts and slicers 
-to analyze retail sales performance across zones, months, and cities.
+## 💡 Skills Demonstrated
+- Data Cleaning & Transformation (Power Query)
+- Data Modeling (Power Pivot)
+- DAX Formulas
+- Data Validation
+- Data Analysis
+- Dashboard Design
+- Business Reporting
+- Data Visualization
+- Analytical Thinking
 
-## 📌 Key Metrics Tracked
-- Total Sales & Total Profit
-- Profit Margin %
-- Total Orders & Average Order Value
-- Return Rate % and Average Discount %
-- Average Shipping Days
-- Customer Satisfaction Score
-- Total Quantity Sold & Total Customers
+## 📷 Dashboard Preview
+<img width="1450" height="771" alt="image" src="https://github.com/user-attachments/assets/dcc7c608-9318-4876-b385-aff6f9b35095" />
 
-## 📈 Breakdown Views
-- **Zone-wise Sales** (Central, East, North, South, West)
-- **Month-wise Sales Trend** (Jan–Dec)
-- **City-wise Sales** (Kochi, Amritsar, Chennai, etc.)
 
-## 🛠️ Tools Used
-- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Dashboard formatting)
+## 🚀 How to Use
+1. Download the Excel file.
+2. Open it using Microsoft Excel (2019 or later recommended).
+3. Use the slicers to filter data by zone, month, or city.
+4. Explore KPIs and charts for business insights.
 
-## 📂 File
-- `Retail_Data_Report.xlsx` — full dashboard with raw data and pivot views
+## 📚 Business Insights
+- Identify top-performing zones and cities.
+- Monitor monthly sales growth trends.
+- Track profit margin and return rate for better decision-making.
+- Support data-driven business strategy.
+
+## 👨‍💻 Author
+**Salman**
+Aspiring Data Analyst | Excel & Power BI Dashboards
 
 ---
+⭐ If you found this project helpful, don't forget to Star this repository.
+
 🔗 A Power BI version of this dashboard is coming soon.
